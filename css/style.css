@@ -680,7 +680,7 @@ h1, h2, h3, h4, h5, h6 {
 .slider__wrapper {
   position: relative;
   overflow: hidden;
-  background-color: #eee;
+  background-color: #fff;
 }
 
 /* стили для элемента, в котором непосредственно расположены элементы (слайды) */
