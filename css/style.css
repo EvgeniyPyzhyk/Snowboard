@@ -283,6 +283,11 @@ h1, h2, h3, h4, h5, h6 {
     background-size: auto 100%;
   }
 }
+@media (max-width: 30rem) {
+  .intro {
+    background-position: -500px;
+  }
+}
 .intro__main {
   display: flex;
   flex-direction: column;
